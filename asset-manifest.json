@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MISHA_Portfolio/static/css/main.cd9b0234.css",
-    "main.js": "/MISHA_Portfolio/static/js/main.083ff684.js",
+    "main.js": "/MISHA_Portfolio/static/js/main.9a044963.js",
     "static/js/787.67b99310.chunk.js": "/MISHA_Portfolio/static/js/787.67b99310.chunk.js",
     "static/media/helvetica-neu.ttf": "/MISHA_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/MISHA_Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/MISHA_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/MISHA_Portfolio/index.html",
     "main.cd9b0234.css.map": "/MISHA_Portfolio/static/css/main.cd9b0234.css.map",
-    "main.083ff684.js.map": "/MISHA_Portfolio/static/js/main.083ff684.js.map",
+    "main.9a044963.js.map": "/MISHA_Portfolio/static/js/main.9a044963.js.map",
     "787.67b99310.chunk.js.map": "/MISHA_Portfolio/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd9b0234.css",
-    "static/js/main.083ff684.js"
+    "static/js/main.9a044963.js"
   ]
 }
